@@ -1,6 +1,10 @@
 <div align="center">
   <a href="https://ailesson.io/">
-    <img src="../assets/ailesson-logo.svg" alt="AILesson" width="280" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../assets/ailesson-logo-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="../assets/ailesson-logo.svg" />
+      <img src="../assets/ailesson-logo.svg" alt="AILesson" width="280" />
+    </picture>
   </a>
 
   <br />
