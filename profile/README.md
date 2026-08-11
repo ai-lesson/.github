@@ -11,7 +11,7 @@
   <br />
 
   <a href="https://ailesson.io/courses">
-    <img src="../assets/ailesson-learning-hero.png" alt="An illustrated workspace for learning practical AI skills" width="960" />
+    <img src="../assets/ailesson-office.png" alt="AILesson's illustrated office, where practical AI lessons are created" width="480" />
   </a>
 
   <h2>Learn practical AI skills by doing</h2>
